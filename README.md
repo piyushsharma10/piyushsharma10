@@ -13,6 +13,8 @@ Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=
 
 👋 Hi there, I Piyush Sharma a self-taught, passionate and quick-learner Frontend developer 🚀 from India 🇮🇳 🌎. Love to work with new technologies and developing web applications 🔭 I feel like home when I play with HTML, CSS, Javascript, Wordpress, jQuery, Bootstrap, Material Design and ReactJS code🌱🚀.
 
+<br><div align='center'>
+        ![](https://komarev.com/ghpvc/?username=piyushsharma10&color=brightgreen)
 <br />
 
 ### Talk with me, I am kinda awesome:
@@ -26,7 +28,7 @@ Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=
 [<img align="left" alt="Piyush Sharma | Twitter" width="22px"
     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Piyush Sharma" width="22px"
-    target="_blank" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+    target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/6/67/Octicons-globe.svg" />][website]
 
 <br />
 
