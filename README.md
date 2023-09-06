@@ -20,15 +20,15 @@ Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=
 ### Talk with me, I am kinda awesome:
 
 [<img align="left" alt="Piyush Sharma | LinkedIn" width="22px" target="_blank"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]
 [<img align="left" alt="Piyush Sharma | Instagram" width="22px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
 [<img align="left" alt="Piyush Sharma | Facebook" width="22px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" />][facebook]
 [<img align="left" alt="Piyush Sharma | Twitter" width="22px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" />][twitter]
 [<img align="left" alt="Piyush Sharma" width="22px"
-    target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/6/67/Octicons-globe.svg" />][website]
+    target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Circle-icons-dev.svg/1200px-Circle-icons-dev.svg.png" />][website]
 
 <br />
 
@@ -36,7 +36,7 @@ Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=
 [instagram]: https://www.instagram.com/piyu1017/
 [facebook]: https://www.facebook.com/piyu1710
 [twitter]: https://twitter.com/psharma902
-[website]: https://piyush10.herokuapp.com
+[website]: https://piyush10.netlify.app
 <!--
 **piyushsharma10/piyushsharma10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
