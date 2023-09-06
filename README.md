@@ -2,7 +2,7 @@
 
 
 
-<a target="_blank" href="https://piyush10.herokuapp.com"><img width="250" align="right"
+<a target="_blank" href="https://piyush10.netlify.app"><img width="250" align="right"
         src="https://github.com/piyushsharma10/piyushsharma10/blob/9beeb2b1d2b06d9dcb446e22efa5a68b852b9503/dev.gif"></a>
 
 ### Frontend/UI Developer | Passionate UI/UX Designer !!
