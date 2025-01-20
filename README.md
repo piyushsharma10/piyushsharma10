@@ -34,7 +34,7 @@ Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=
 
 [linkedin]: https://www.linkedin.com/in/piyu1710
 [instagram]: https://www.instagram.com/piyu1017/
-[facebook]: https://www.facebook.com/piyu1710
+[facebook]: https://www.facebook.com/piyu1017
 [twitter]: https://twitter.com/psharma902
 [website]: https://piyush10.netlify.app
 <!--
